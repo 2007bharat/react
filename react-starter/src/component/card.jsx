@@ -1,4 +1,5 @@
 import {User} from "lucide-react"
+
 function Card(){
     return (
         <>

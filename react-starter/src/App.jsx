@@ -1,5 +1,5 @@
 import Card from "./component/card"
-
+import React  from "react";
 function App(){
 
  return (

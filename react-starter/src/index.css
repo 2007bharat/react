@@ -1,0 +1,17 @@
+body{
+    background-color: black
+}
+ .parent{
+    border: 12px solid red;
+    margin : 100px 100px ;
+    height: 100vh;
+    width: 100vw;
+ }
+ .parent top{
+     border: 12px solid yellow;
+ }
+
+ .img{
+    height: 12px;
+    width: 12px;
+ }
